@@ -1,6 +1,6 @@
-,- 👋 Hi, I’m @femakc
-- 👀 I’m interested in write code
-- 🌱 I’m currently learning Beckend on python
+Hi, I’m @femakc
+
+I'm studying to be a python developer [yandex](https://practicum.yandex.ru)
 
 <!---
 femakc/femakc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
