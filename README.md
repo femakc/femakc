@@ -1,7 +1,5 @@
 Hi, I’m @femakc
 
-Я учусь на [Yandex-Practicum](https://practicum.yandex.ru) по направлению Python-Developer.
-
 ```markdown
 print('Hellow world!')
 ```
