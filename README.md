@@ -5,6 +5,7 @@
 
 <div align="center">
 
+  <span align="center"> <h2> :mailbox_with_no_mail: Connect with me: :telephone_receiver: </h2> </span>
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/femakc)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-fedorov-1b9261257/)
   [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/jMQgjSgfyhGF)
@@ -16,6 +17,7 @@
 
 <div align="center">
   
+  <span align="center"> <h2> :open_file_folder: Technical Skills :file_folder: </h2> </span>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
 <div align="center">
@@ -45,3 +47,10 @@
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
   ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 </div>
+
+<div align="center">
+
+  <span align="center"> <h2> :chart_with_upwards_trend: GitHub Status :chart_with_downwards_trend: </h2> </span>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femakc&show_icons=true&theme=merko)
+</div>
+
