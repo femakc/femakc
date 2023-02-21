@@ -1,7 +1,16 @@
 <span align="center"> <h1></h1> </span>
 <span align="center"> <h1> :wave: Hi ! </h1> </span>
 <span align="center"> <h3> `__name__ == __maksim_fedorov__` </h3> </span>
-<span align="center"> <h3> I`am Backend Developer :computer: </h3> </span>
+<span align="center"> <h3> I am Backend Developer :computer: </h3> </span>
+
+<div align="center">
+
+  <span align="center"> :snake: I love Python !  </span><br>
+  <span align="center"> :mortar_board: I studied at Yandex  </span><br>
+  <span align="center"> :information_desk_person: Now participating in an open source project  </span><br>
+  <span align="center"> :eyes: Actively looking for a job as a backend developer ! :walking: </span><br>
+
+</div>
 
 <div align="center">
 
@@ -53,4 +62,5 @@
   <span align="center"> <h2> :chart_with_upwards_trend: GitHub Status :chart_with_downwards_trend: </h2> </span>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femakc&show_icons=true&theme=merko)
 </div>
+
 
