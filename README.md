@@ -6,7 +6,6 @@
 <div align="center">
 
   <span align="center"> :snake: I love Python !  </span><br>
-  <span align="center"> :mortar_board: I studied at Yandex  </span><br>
   <span align="center"> :information_desk_person: Now participating in an open source project  </span><br>
   <span align="center"> :eyes: Actively looking for a job as a backend developer ! :walking: </span><br>
 
