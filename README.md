@@ -7,7 +7,7 @@
 
   <span align="center"> :snake: I love Python !  </span><br>
   <span align="center"> :information_desk_person: Now participating in an open source project  </span><br>
-  <span align="center"> Actively looking for a job as a backend developer ! </span><br>
+  <span align="center"> Actively looking for a job as a freelance backend developer ! </span><br>
 
 </div>
 
