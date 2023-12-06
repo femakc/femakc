@@ -7,13 +7,13 @@
 
   <span align="center"> :snake: I love Python !  </span><br>
   <span align="center"> :information_desk_person: Now participating in an open source project  </span><br>
-  <span align="center"> :eyes: Actively looking for a job as a backend developer ! :walking: </span><br>
+  <span align="center"> Actively looking for a job as a backend developer ! </span><br>
 
 </div>
 
 <div align="center">
 
-  <span align="center"> <h2> :mailbox_with_no_mail: Connect with me: :telephone_receiver: </h2> </span>
+  <span align="center"> <h2>Connect with me: </h2> </span>
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/femakc)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-fedorov-1b9261257/)
   [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/jMQgjSgfyhGF)
@@ -25,7 +25,7 @@
 
 <div align="center">
   
-  <span align="center"> <h2> :open_file_folder: Technical Skills :file_folder: </h2> </span>
+  <span align="center"><h2>Technical Skills</h2></span>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
 <div align="center">
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-  <span align="center"> <h2> :chart_with_upwards_trend: GitHub Status :chart_with_downwards_trend: </h2> </span>
+  <span align="center"> <h2> GitHub Status </h2> </span>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femakc&show_icons=true&theme=merko)
 </div>
 
